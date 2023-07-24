@@ -4,7 +4,7 @@ This repository contains the backend code for a web-based electronics store's ch
 
 Endpoints
 
-Admin User Operations
+Admin User Operations (PowerShell)
 
 1. Create a new product (POST)
 
